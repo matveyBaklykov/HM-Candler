@@ -1079,7 +1079,7 @@ button {
 
 }
 
-@media (max-width: 360px) {
+@media (max-width: 404px) {
     .top__img-l {
         width: 185px;
        
